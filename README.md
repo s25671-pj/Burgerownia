@@ -8,7 +8,7 @@ The most common meal order should be created without any arguments, like a regul
 You should be able to create other meal orders, by specifying different burgers, drinks, and side items.
 
 The drink should have at least a type, size and price, and the price of the drink should change for each size.
-The side item needs at least a type and price.![image](https://user-images.githubusercontent.com/92219325/229368558-32b09996-f755-4a73-a0b7-5bf2b094bb5c.png)
+The side item needs at least a type and price.
 
 Every hamburger should have a burger type, a base price, and up to a maximum of three extra toppings.
 The constructor should include only the burger type and price.
